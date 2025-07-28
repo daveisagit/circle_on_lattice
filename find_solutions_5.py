@@ -79,7 +79,7 @@ def print_examples_2(examples):
                 break
 
 
-def search(upto=6):
+def search(upto=15):
     """Find solutions for powers of 5
     Populate examples which is a dictionary keyed on (N) where each entry has
     a set of example solutions
